@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(25, 21, 21);
+    color: aliceblue;
+}
+a{
+    color: orange;
+    
+}
+a:visited{
+    color: red;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blanchedalmond;
+}
+hr{
+    border-color: aquamarine;
+}
+
+
